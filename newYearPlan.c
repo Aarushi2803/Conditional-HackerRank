@@ -11,4 +11,4 @@ if((total<=budget) && (numGuest > 5 && numGuest <= 50) && (deco < 0.3 * budget |
 else { 
      printf("Celebration Denied\n"); 
  }    
-} 
+}  
